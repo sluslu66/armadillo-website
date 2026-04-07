@@ -1,0 +1,23 @@
+body {
+  font-family: Arial;
+  background: #2d1b0e;
+  color: #f5e6ca;
+  text-align: center;
+}
+
+nav a {
+  margin: 10px;
+  color: #ffd27f;
+}
+
+.gallery img {
+  margin: 10px;
+  border-radius: 10px;
+}
+
+button {
+  padding: 10px;
+  background: #a47148;
+  color: white;
+  border: none;
+}
